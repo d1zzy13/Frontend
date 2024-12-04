@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "D:/VUZ/7sem/DevOps/LR2/frontend/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/VUZ/7sem/DevOps/LR2/frontend/src/main/frontend/generated/jar-resources",
+  "staticOutput": "D:/VUZ/7sem/DevOps/LR2/frontend/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\VUZ\\7sem\\DevOps\\LR2\\frontend\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\VUZ\\7sem\\DevOps\\LR2\\frontend\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "D:/VUZ/7sem/DevOps/LR2/frontend/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "D:/VUZ/7sem/DevOps/LR2/frontend/target/dev-bundle/config",
+  "jarResourcesFolder": "D:/VUZ/7sem/DevOps/LR2/frontend/src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "D:\\VUZ\\7sem\\DevOps\\LR2\\frontend\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
